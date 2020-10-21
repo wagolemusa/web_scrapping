@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bugdetyutube",
+  "private_key_id": "cefff57a1ed85ac317672f179f93078d586c061f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDE9QO9huPGOi22\naKzx3b2QToqd2ZIxlQlW/5FF6RbQS5dgzQr4mfdyCSvIBbQYOc+b1pqVTT4ERpCL\nyE7DmB9j+qiZ5O0ZuhLxpjY0Fvjjpcf/mq+6xjjM04bzRUL9lK9b/3DKgDTL4tlo\ncuyHNs/l7hMS2oN2hnn7JXSToY0JJVy1tJKgImiAgDDO7A2QBEHtsNs4WH54oI4a\nESLqY7NLHrFv/ZKefeWXs0QNlAR3NuqdCSi+TYmga6HLXH6HdoTZBNOkdB71Dj3m\n4plIVMtktolZ30undVVJD09BDXhfBawLOGzE8NXCil1vS/bdxcqQ9GVjFKw/BjWy\nZo8Y52v1AgMBAAECggEARVC3csWctuA1w0r+hpaTxswlc50lGscJRPFnlpOMQF1C\nFsLCuDAzihIZMuly8s2xt3Yk7COFjmqpJ1ClC6gnb//Aw3xyR0oZrarhy55EFJX9\nF4NAkjp9tfRBu67l/ymLN5TkBJhvPEwHWH+Np56ONyz80HdPqfB00ILjjqtd39gD\n7o90S+Xmld5po/5X9k1OeZLXX39HsjgR/L7e8CeT6KBqqZ1Qc61/2YWYPM4uRYNk\nsmM6dMT0PAR5Qox8l+KUwYd/ySqGo0tyYiid7xIjOPY7GKdU4wkb1aOQuLqg8cbP\n5kCV95w1qgSo72OvXMJwRlGm1ssHctgnBq/nsntjVwKBgQD48NmFBti7n4WxSwQC\nsWTc5K38Ix7eqDmbRSo3tN81E5Ptk5NQJY0BdwgAwVK3RbOTMHBbMj9hYbqahwpz\n8d1eFufsjYBE9xg+x91m9bJObsD9oPEDeeRlORXcdVvNAXWqopvPFtogdpm9TnBm\nGzha7nC1b4jKYHYRxww5IXdjawKBgQDKisvknyx9Z3JXwMZzbdWDBuBrdSkHVltT\nRoym0JjPQwgiVRkeD6z5Ye787H8oOZpFNQYCwGw++gG2M+yPDOzLUigqPReECn24\n9KpTVH45MsoYzpYaYM/M1JgewQYRDYcyPUTmthhK1zR1nhFRDlzrrYaWiNg8wH5w\nN8ALrLGmHwKBgQDW6f+wY8fKux6NgEjXFlUQivBVw/BLo4oQLXcUHrewt9U2/vfn\n8nM4d43WMRB7Hta4VNI7OTcUmG2kKL9yd7V4HGhfhY3efEBXOu8+ixFDu0Qr8r0A\nFkSCyvS/niYB56exB69h6sWnzxxNHaHV1NwjTMTLLp42sW5dTK2VyPmsPwKBgFvL\nR9kXosw7BAFtZwONdcTqau+Iq82df8pgIQLBa2AT2y3kL3wGUri7f9q1PHP4l0hi\nXZUFrIlmOTxgkAfNLcyAMZ/jDDNVpeEbUc5ubr5xnFJd3n2Z/tOwTjkx9hPoc6t7\nRSzivmO84ROlTefUgJx3ipXS812lSCiHu8wOuny1AoGABmSSkNHSw1FqTqCCpiCq\nuuoc7rDXiFjUi+T8gfSvcGT+BYSKc8X8myH2/+2HXPy3fCd+oRFk2V1ztmCo8U91\nRyTPe5fkadgegJrmMiqen83mkA0/Yi71OCWJmpoWDGNV+UIpm7YLLkgODJ/6SJWT\nWCqMCxxH3OrfQQPvAQkXPe8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wagole@bugdetyutube.iam.gserviceaccount.com",
+  "client_id": "113865755117283234284",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wagole%40bugdetyutube.iam.gserviceaccount.com"
+}
